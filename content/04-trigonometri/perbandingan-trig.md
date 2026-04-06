@@ -176,7 +176,7 @@ $$= \frac{1}{2} - \frac{\sqrt{3}}{2} - (-1) = \frac{1}{2} - \frac{\sqrt{3}}{2} +
 **Jawaban:** $\frac{3 - \sqrt{3}}{2}$
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/perbandingan-trig.md) dan [Set 2](./latihan/perbandingan-trig-2.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/perbandingan-trig.md) , [Set 2](./latihan/perbandingan-trig-2.md), dan [Set 3](./latihan/perbandingan-trig-3.md).
 
 ---
 

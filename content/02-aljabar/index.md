@@ -26,9 +26,9 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 
 ## 📝 Latihan Soal
 Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
-- 📝 Latihan Soal Sistem Persamaan & Pertidaksamaan Linear: [Set 1](./latihan/persamaan-linear.md) | [Set 2](./latihan/persamaan-linear-2.md)
-- 📝 Latihan Soal Fungsi: [Set 1](./latihan/fungsi.md) | [Set 2](./latihan/fungsi-2.md)
-- 📝 Latihan Soal Barisan dan Deret: [Set 1](./latihan/barisan-deret.md) | [Set 2](./latihan/barisan-deret-2.md)
+- 📝 Latihan Soal Sistem Persamaan & Pertidaksamaan Linear: [Set 1](./latihan/persamaan-linear.md) | [Set 2](./latihan/persamaan-linear-2.md) | [Set 3](./latihan/persamaan-linear-3.md)
+- 📝 Latihan Soal Fungsi: [Set 1](./latihan/fungsi.md) | [Set 2](./latihan/fungsi-2.md) | [Set 3](./latihan/fungsi-3.md)
+- 📝 Latihan Soal Barisan dan Deret: [Set 1](./latihan/barisan-deret.md) | [Set 2](./latihan/barisan-deret-2.md) | [Set 3](./latihan/barisan-deret-3.md)
 
 ---
 

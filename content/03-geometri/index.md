@@ -33,9 +33,9 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 
 ## 📝 Latihan Soal
 Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
-- 📝 Latihan Soal Objek Geometri: [Set 1](./latihan/objek-geometri.md) | [Set 2](./latihan/objek-geometri-2.md)
-- 📝 Latihan Soal Transformasi Geometri: [Set 1](./latihan/transformasi.md) | [Set 2](./latihan/transformasi-2.md)
-- 📝 Latihan Soal Pengukuran: [Set 1](./latihan/pengukuran.md) | [Set 2](./latihan/pengukuran-2.md)
+- 📝 Latihan Soal Objek Geometri: [Set 1](./latihan/objek-geometri.md) | [Set 2](./latihan/objek-geometri-2.md) | [Set 3](./latihan/objek-geometri-3.md)
+- 📝 Latihan Soal Transformasi Geometri: [Set 1](./latihan/transformasi.md) | [Set 2](./latihan/transformasi-2.md) | [Set 3](./latihan/transformasi-3.md)
+- 📝 Latihan Soal Pengukuran: [Set 1](./latihan/pengukuran.md) | [Set 2](./latihan/pengukuran-2.md) | [Set 3](./latihan/pengukuran-3.md)
 
 ---
 

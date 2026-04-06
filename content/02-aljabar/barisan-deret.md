@@ -172,7 +172,7 @@ $$S_\infty = \frac{a}{1 - r} = \frac{1}{1 - \frac{1}{2}} = \frac{1}{\frac{1}{2}}
 **Jawaban:** $2$
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/barisan-deret.md) dan [Set 2](./latihan/barisan-deret-2.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/barisan-deret.md) , [Set 2](./latihan/barisan-deret-2.md), dan [Set 3](./latihan/barisan-deret-3.md).
 
 ---
 

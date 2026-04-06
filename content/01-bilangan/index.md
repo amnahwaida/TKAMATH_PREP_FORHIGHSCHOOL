@@ -26,7 +26,7 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 
 ## 📝 Latihan Soal
 Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
-- 📝 Latihan Soal Bilangan Real: [Set 1](./latihan/bilangan-real.md) | [Set 2](./latihan/bilangan-real-2.md)
+- 📝 Latihan Soal Bilangan Real: [Set 1](./latihan/bilangan-real.md) | [Set 2](./latihan/bilangan-real-2.md) | [Set 3](./latihan/bilangan-real-3.md)
 
 ---
 
