@@ -172,7 +172,7 @@ $$C'(3, 1) \to C''(3, -1)$$
 **Jawaban:** $C''(3, -1)$
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Transformasi Geometri](./latihan/transformasi.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/transformasi.md) dan [Set 2](./latihan/transformasi-2.md).
 
 ---
 

@@ -24,8 +24,8 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 
 ## 📝 Latihan Soal
 Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
-- [📝 Latihan Soal Statistika](./latihan/statistika.md)
-- [📝 Latihan Soal Peluang](./latihan/peluang.md)
+- 📝 Latihan Soal Statistika: [Set 1](./latihan/statistika.md) | [Set 2](./latihan/statistika-2.md)
+- 📝 Latihan Soal Peluang: [Set 1](./latihan/peluang.md) | [Set 2](./latihan/peluang-2.md)
 
 ---
 

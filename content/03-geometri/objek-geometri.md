@@ -191,7 +191,7 @@ $$EF = BC \times k = 8 \times \frac{3}{2} = 12 \text{ cm}$$
 **Jawaban:** $12$ cm
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Objek Geometri](./latihan/objek-geometri.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/objek-geometri.md) dan [Set 2](./latihan/objek-geometri-2.md).
 
 ---
 
