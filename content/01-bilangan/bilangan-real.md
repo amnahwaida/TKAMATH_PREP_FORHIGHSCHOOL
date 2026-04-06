@@ -212,7 +212,7 @@ $$2(4.000) + 5(3.000) = 8.000 + 15.000 = 23.000$$
 **Jawaban: B. Rp23.000,00** ✅
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/bilangan-real.md) , [Set 2](./latihan/bilangan-real-2.md), dan [Set 3](./latihan/bilangan-real-3.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/bilangan-real.md) , [Set 2](./latihan/bilangan-real-2.md), [Set 3](./latihan/bilangan-real-3.md), dan [Set 4](./latihan/bilangan-real-4.md).
 
 ---
 

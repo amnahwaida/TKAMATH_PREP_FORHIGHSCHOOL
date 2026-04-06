@@ -19,7 +19,7 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 
 ## 📝 Latihan Soal
 Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
-- 📝 Latihan Soal Perbandingan Trigonometri: [Set 1](./latihan/perbandingan-trig.md) | [Set 2](./latihan/perbandingan-trig-2.md) | [Set 3](./latihan/perbandingan-trig-3.md)
+- 📝 Latihan Soal Perbandingan Trigonometri: [Set 1](./latihan/perbandingan-trig.md) | [Set 2](./latihan/perbandingan-trig-2.md) | [Set 3](./latihan/perbandingan-trig-3.md) | [Set 4](./latihan/perbandingan-trig-4.md)
 
 ---
 

@@ -172,7 +172,7 @@ $$C'(3, 1) \to C''(3, -1)$$
 **Jawaban:** $C''(3, -1)$
 
 ## 5. Latihan Soal
-Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/transformasi.md) , [Set 2](./latihan/transformasi-2.md), dan [Set 3](./latihan/transformasi-3.md).
+Uji pemahaman terperinci Anda dengan mencoba [Set 1](./latihan/transformasi.md) , [Set 2](./latihan/transformasi-2.md), [Set 3](./latihan/transformasi-3.md), dan [Set 4](./latihan/transformasi-4.md).
 
 ---
 
