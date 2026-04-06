@@ -31,6 +31,12 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 - Bangun ruang: **beraturan** (sisi datar dan lengkung)
 - Jarak: titik-titik, titik-garis, titik-bidang, garis-garis, garis-bidang, bidang-bidang
 
+## 📝 Latihan Soal
+Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
+- [📝 Latihan Soal Objek Geometri](./latihan/objek-geometri.md)
+- [📝 Latihan Soal Transformasi Geometri](./latihan/transformasi.md)
+- [📝 Latihan Soal Pengukuran](./latihan/pengukuran.md)
+
 ---
 
 **Navigasi:**

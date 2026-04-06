@@ -22,6 +22,11 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 - Aturan pencacahan (penjumlahan, perkalian, permutasi, kombinasi)
 - Peluang suatu kejadian
 
+## 📝 Latihan Soal
+Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
+- [📝 Latihan Soal Statistika](./latihan/statistika.md)
+- [📝 Latihan Soal Peluang](./latihan/peluang.md)
+
 ---
 
 **Navigasi:**

@@ -24,6 +24,12 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 - Invers fungsi dan fungsi komposisi
 - Barisan dan deret aritmetika & geometri
 
+## 📝 Latihan Soal
+Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
+- [📝 Latihan Soal Sistem Persamaan & Pertidaksamaan Linear](./latihan/persamaan-linear.md)
+- [📝 Latihan Soal Fungsi](./latihan/fungsi.md)
+- [📝 Latihan Soal Barisan dan Deret](./latihan/barisan-deret.md)
+
 ---
 
 **Navigasi:**

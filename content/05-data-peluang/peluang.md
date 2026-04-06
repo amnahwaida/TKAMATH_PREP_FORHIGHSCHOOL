@@ -208,6 +208,9 @@ $$P(\text{jumlah} \neq 7) = 1 - \frac{1}{6} = \frac{5}{6}$$
 
 **Jawaban:** $\frac{5}{6}$
 
+## 5. Latihan Soal
+Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Peluang](./latihan/peluang.md).
+
 ---
 
 **Navigasi:**

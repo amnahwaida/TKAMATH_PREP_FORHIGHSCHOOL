@@ -202,6 +202,9 @@ Data diurutkan: $3, 4, 5, 6, 7, 7, 7, 8, 8, 9$ ($n = 10$)
 
 **Jawaban:** Mean = $6{,}4$, Median = $7$, Modus = $7$
 
+## 5. Latihan Soal
+Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Statistika](./latihan/statistika.md).
+
 ---
 
 **Navigasi:**

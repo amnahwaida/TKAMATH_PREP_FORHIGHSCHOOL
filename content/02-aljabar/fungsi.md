@@ -200,6 +200,9 @@ Syarat: $x^2 - 9 \neq 0$ → $x^2 \neq 9$ → $x \neq 3$ dan $x \neq -3$
 
 $$D_f = \{x \in \mathbb{R} \mid x \neq 3 \text{ dan } x \neq -3\}$$
 
+## 5. Latihan Soal
+Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Fungsi](./latihan/fungsi.md).
+
 ---
 
 **Navigasi:**

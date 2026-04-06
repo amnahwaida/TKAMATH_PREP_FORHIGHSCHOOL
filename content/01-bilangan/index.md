@@ -24,6 +24,10 @@ Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan pe
 - Bilangan meliputi **bilangan real**, termasuk bilangan asli berpangkat bilangan bulat atau berpangkat bilangan pecahan
 - Sifat operasi mencakup: **Komutatif, Asosiatif, Distributif**
 
+## 📝 Latihan Soal
+Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
+- [📝 Latihan Soal Bilangan Real](./latihan/bilangan-real.md)
+
 ---
 
 **Navigasi:**

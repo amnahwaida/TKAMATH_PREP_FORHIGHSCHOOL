@@ -191,6 +191,9 @@ $$V_{\text{total}} = 72 + 12\pi \approx 109{,}7 \text{ cm}^3$$
 
 **Jawaban:** $(72 + 12\pi)$ cm³
 
+## 5. Latihan Soal
+Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Pengukuran](./latihan/pengukuran.md).
+
 ---
 
 **Navigasi:**

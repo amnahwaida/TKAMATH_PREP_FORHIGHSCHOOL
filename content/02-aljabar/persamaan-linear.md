@@ -192,6 +192,9 @@ $$x + y + z = 12$$
 
 > 💡 **Tip:** Perhatikan soal baik-baik. Terkadang jawaban sudah ada langsung pada persamaan yang diberikan!
 
+## 5. Latihan Soal
+Uji pemahaman terperinci Anda dengan mencoba [📝 Latihan Soal Sistem Persamaan & Pertidaksamaan Linear](./latihan/persamaan-linear.md).
+
 ---
 
 **Navigasi:**

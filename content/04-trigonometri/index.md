@@ -17,6 +17,10 @@
 Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait:
 - Perbandingan trigonometri (sinus, kosinus, tangen, kotangen, sekan, kosekan)
 
+## 📝 Latihan Soal
+Uji pemahaman Anda melalui kumpulan soal untuk elemen ini:
+- [📝 Latihan Soal Perbandingan Trigonometri](./latihan/perbandingan-trig.md)
+
 ---
 
 **Navigasi:**
