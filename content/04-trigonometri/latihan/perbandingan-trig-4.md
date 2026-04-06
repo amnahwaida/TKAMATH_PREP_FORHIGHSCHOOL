@@ -5,7 +5,7 @@
 ---
 
 ## Soal 1: Pilihan Ganda (PG)
-Diberikan fungsi gelombang murni trigonometri terpusat dengan persamaannya mengukir formasi linear $f(x) = 2 \cos\left(3x - \frac{\pi}{4}\right) - 1$. Fungsi ini mewujud keagungannya memancarkan rentanan siklus periodik di relung absis koordinat berjalan yang terus memutari pusat batasnya merasuk berulang-ulang beriringan. Berapakah bentang periode murni satu gelombang eksponen rasional mutlak berjangkar lunas diselesaikan dari kurva tersebut secara totalitas tak menyimpang merujuk pada ekuilibrium perhitungannya sendiri?
+Diberikan sebuah fungsi gelombang trigonometri dengan persamaan $f(x) = 2 \cos\left(3x - \frac{\pi}{4}\right) - 1$. Fungsi bernilai periodik ini memetakan nilai-nilai gelombang pada rentang domain fungsi matematika rasional yang berulang secara konstan. Berapakah panjang periode dari satu siklus gelombang utuh untuk fungsi trigonometri tersebut?
 
 A. $\frac{\pi}{3}$  
 B. $\frac{\pi}{2}$  
@@ -14,62 +14,61 @@ D. $\pi$
 E. $2\pi$  
 
 **Pembahasan:**
-Memeras murni bentangan ekuilibrium siklus putar Fungsi Trigonometri Kosinus:
-Bentuk umum berantai yang diretas memeluk kaidah fungsi $y = A \cos(Bx + C) + D$.
-Periodisasi atau jeda lunas satu siklus gelombangnya ditentukan tunggal secara mutlak menunjuk pada rasio mutlak sentral membiaskan faktor skala pendamping sumbu $X$, yakni variabel sakral dinotasikan sentral dengan huruf $B$.
-Sedangkan parameter $A$ (Amplitudo), $C$ (Pergeseran fase geser menyilang), dan $D$ (Geseran vertikal terangkat ke atas/bawah) tidak mempunyai andil kontribusi secuilpun bagi pelebaran/penyempitan dimensi perenggangan mendatar interval panjang gelombangnya di cakrawala lintasan ekuilibriumnya merangkai periode.
+Menentukan bentuk umum periode dari fungsi trigonometri dasar kosinus:
+Bentuk umum persamaannya disajikan menjadi $y = A \cos(Bx + C) + D$.
+Dalam hal ini, parameter periode atau jarak siklus satu gelombang ($T$) hanya ditentukan oleh absis variabel skalar pengali x yaitu nilai koefisien $B$.
+Sedangkan nilai Amplitudo ($A$), sudut pergeseran fase ($C$), serta pergeseran vertikal fungsional ($D$) tidak memiliki pengaruh apapun terhadap pelebaran atau deflasi pada interval periode sumbu $x$.
 
-Berdasarkan fungsi asli termaktub $B = 3$.
-Rumus absolut Periode Kosinus seragam sejatinya adalah bertumpu murni ke pertautan: 
+Sesuai dari persamaan di soal, nilai mutlak pengali variabel adalah $B = 3$.
+Rumus umum perhitungan Periode Kosinus merupakan penjabaran dari rasio: 
 $$ T = \frac{2\pi}{|B|} $$
-Substitusi mutlak mengalirkan kebesaran angkanya:
+Masukkan nilai $B$ yang telah dikalkulasikan ke dalam formula theorema tersebut:
 $$ T = \frac{2\pi}{3} $$
 
-Panjang interval rotasional genap periodisasinya menyusupi rasio bentangan penuh memeluk erat opsi penyatuan nilai eksklusif menembus persembahan sandi huruf mutlak asimetris di urutan **C**.
+Periode panjang satu siklus utuh adalah $\frac{2\pi}{3}$. Opsi yang memaparkan jawaban ini merupakan pilihan **C**.
 
 ---
 
 ## Soal 2: Pilihan Ganda Kompleks Kategori (Benar/Salah)
-Pembedahan identitas trigonometrika mengemas silang tatanan fraksi sinusoida maupun penemuan simpul mutlak sudut-sudut relasinya rentangan. Analisis secara saksama setiap tatanan rumus pemecahannya, lalu berikan validasi mutlak logis pada rentetan pernyataan asersinya!
+Pemecahan dan perhitungan kaidah identitas Trigonometri disusun oleh rentetan aturan pecahan perbandingan sinus maupun sudut istimewa. Lakukan pengujian analisis perhitungan terkait pernyataan perbandingan theorema di bawah ini untuk menilai keabsahan setiap poinnya (Benar/Salah).
 
-- A. Ekuivalensi rasio murni perkalian ganda sentral $\sin(2x)$, dengan mulus mampu dipetakan murni terbelah sempurna mengais rejeki memaparkan penjabarannya ke dalam wujud mutlak aljabar identitas pemecah bersandi relasi seirama $2 \sin(x) \cos(x)$.
-- B. Pada saat derajat putaran absolut merengkuh posisinya melebarkan kemiringan tajam menduduki Kuadran IV (merentang dari pos gawang sudut $270^\circ$ lunas tiba ke dermaga menyudut penuh $360^\circ$ pelabuhannya), seluruh perwujudan Trigonometrik fraksi relasi perbandingan Sinus maupun Tangen mutlak diselimuti kegelapan serapan asupan minus murni bernilai nominal $(-)$ tanpa pengecualian rasio satu pun jua tersisa, terkecuali hanya panglima tunggal Cosinus dan partner Invers kembar setianya yang tegar menerangkan mercusuar bernilai sakral $(+)$ menerangi lembah itu.
-- C. Jikalau ditasbihkan membongkar pelabuhan Theorema relasional batas perbatasan identitas fundamental tak berbatas, operasi $\sin^2(\beta) - \cos^2(\beta) = 1$ digelari mahkota mutlak tanpa cacat rumpang yang mutlak harus dipatuhi di seantero rentang perhitungan rasio murni derajat mana pun ia berlabuh.
+- A. Bentuk kalkulasi rasio dari identitas sudut ganda $\sin(2x)$ dapat dijabarkan pula serta ekuivalen sepenuhnya dengan komposisi perkalian relasional $2 \sin(x) \circ \cos(x)$.
+- B. Saat derajat sudut menempati posisi Kuadran IV (yaitu berhimpit pada rentang ukur $270^\circ < x \le 360^\circ$), maka perbandingan nilai fungsi rasional dari fungsi Sinus maupun Tangen akan bernilai defisit atau minus negatif $(-)$, di mana hanya komponen theorema perhitungan Kosinus dan turunannya yang berada pada zona penilaian teritorial positif $(+)$.
+- C. Dalam aturan theorema dan relasi pembuktian fundamental segitiga siku-siku mutlak Pythagoras, didapatkan sebuah bentuk kepastian murni operasi yaitu $\sin^2 x - \cos^2 x = 1$ yang senantiasa berlaku pada seluruh besaran ukuran taksiran sudut.
 
 **Pembahasan:**
-**A. Konstitusi Penjabaran Sudut Perkalian Ganda**
-Berdasarkan silsilah pemecahan dan pengembangan eksklusif pilar perpaduan relasi perjumlahan rentangan berimpit ganda, dalil mutlak telah dilahirkan bahwasanya persinggungan sumbu ganda asimetris $\sin(2x) = 2 \sin(x)\cos(x)$. Hal ini adalah hukum theorema absolut murni nan sejati.
+**A. Konsep Perumusan Hubungan Sudut Ganda Sinus**
+Melalui deduksi logis matematis relasi penjumlahan sudut bersilangan $\sin(A+B) = \sin A \cos B + \cos A \sin B$, apabila komponen pendamping rasio diekuivalenkan murni sebagai $A=B=x$, akan bermuara persis pada bentuk perumusan yang sama yakni $\sin(2x) = \sin x\cos x + \cos x \sin x \implies 2 \sin(x)\cos(x)$. Relasi dasar sudut ganda ini telah terstruktur mutlak dalam literasi matematika.
 Kesimpulan: **Benar** ✔️
 
-**B. Sifat Polaritas Rasi Bintang Trigonometri Kuadran Keempat**
-Menilik sistem peta kartesian 4 penjuru, Kaidah pelafalan legendaris (Semua-Sindikat-Tangan-Kosong) memetakan penokohan karakter fungsi yang mendulang sentimen Positif di pertautan sumbu tiap biliknya. Kuadran IV memusatkan kekuasaannya dikuasai dan dimonopoli oleh kemerdekaan tunggal rasi dominan Kosinus (+). Akibat fatalnya, sisa fungsi gerbong lainnya seperti Sinus dan Tangen tenggelam meratap kelam mutlak terjerembab minus telak diserap sumbu rasi Y negatif bawahnya.
+**B. Sifat Polaritas Kuadran IV pada Kartesian Trigonometri**
+Pembagian tanda di empat kuadran diagram Kartesius mematuhi prinsip kaidah ALL-SIN-TAN-COS (ASTC). Pada kuadran pertama, semua fungsi rasional mengadopsi sinyal nilai positif. Untuk memasukki rentang Kuadran IV, nilai ordinat komponen perhitungannya dipastikan meluruh condong negatif, yang mendikte theorema rasio perhitungan yang melibatkan unsur tersebut. Alhasil nilai rasio fungsi rasi Sinus serta fungsi Tangen mutlak akan mendulang taksiran minus $(-)$, dengan pengecualian bahwa pengukuran rasio sumbu Kosinus murni bernilai di angka positif.
 Kesimpulan: **Benar** ✔️
 
-**C. Relasi Identitas Fundamental Segitiga Murni Pytagoras**
-Kembaran dan rujukan hukum mutlak Pythagoras memaparkan eksistensi absolut di mana ikrar suci menuntut perjumlahan $\sin^2 x$ PLUS / DITAMBAHKAN dengan asupan sumbangsih rentangan $\cos^2 x$, adalah satusatunya manifestasi absolut bernilai menyangga tiang kokoh $= 1$. Membubuhkan pelengkungan PENGURANGAN minus ($-$) di tengah pemisah kedua suku tersebut fatal menerjang kehancuran tatanan asimetris (Itu malahan melahirkan rumus perpaduan sudut ganda kembar milik fungsi rasio asimetris membuahkan relasi pembatas bernilai $-\cos(2\beta)$, BUKAN relasi angka mentah sakral bilangan 1).
+**C. Relasi Identitas Fundamental Segitiga Siku-siku**
+Konsep ini dibentuk beralaskan pertautan perimbangan Theorema relasional Pythagoras. Keseragaman perumusannya mengarah pada ketetapan bahwa theorema gabungan fungsi kuadrat sudut memiliki rumus $\sin^2 x \mathbf{+} \cos^2 x = 1$. Membubuhkan operasi nilai pemenggal "minus/kurang pengurang" pada pertengahan rumusan tersebut adalah sebentuk kesalahan fatal dan menyalahi fondasi rasional dasar persamaan asimetris theorema kuadrat identitas absolut.
 Kesimpulan: **Salah** ❌
 
 ---
 
 ## Soal 3: Pilihan Ganda Kompleks MCMA (Lebih dari 1 Jawaban Benar)
-Tempatkan nalar murni di garda benteng penguraian theorema segitiga bebas melintasi identitas pembebas Aturan Sinus dan Kosinus pamungkas! Pilihlah baris pembuktian konklusi aljabar berikut yang menjunjung dan menyepakati pengoperasiannya mematuhi tata kelola rasio logis keilmuan mutlak pada bingkai segitiga bebas $ABC$!
-(Tebakan pengamatan memancarkan validitas lebih mutlak mendominasi mengelompok pada ragam sandi kebenaran tegar berjumlah ganda opsional lebih dari satu mutlak semestinya terpampang)!
+Penerapan komputasi penyelesaian jarak rentang unsur segitiga sembarang dihitung secara cermat dan mematuhi Aturan Theorema Sinus maupun Kosinus. Pilihlah baris bukti analisis theorema matematika berikut yang menunjukkan dan memuat kalkulasi theorema kaidah pembuktian terukur dan sah secara ilmiah jika dihadapkan pada skenario segitiga bebas $ABC$! Terdapat proporsi rasional di mana jawaban utuh bisa berlipat dan memuat lebih dari setara 1 jawaban theorema.
 
-- [ ] Memecah kode rasio pencarian luasan sebuah gerbong perhutungan murni segitiga asimetrik dengan sokongan serapan informasi dua tangan terukur pengapit dan rentangan sudut merapat terjepitnya, bisa sukses mulus mengkalkulasikan rentang taksir rasio sentral murninya mendampingkan eksklusif ke rumus pembelah mutlak theorema terpusat berjejari $\frac{1}{2} b \cdot c \sin(A)$.
-- [ ] Aturan tangguh Sinus merincikan secara legal mengangkasa dengan deklarasi $\frac{a}{\sin B} = \frac{b}{\sin A}$, di mana pembilang menjalin silaturahmi lurus menyilang tumpuan terikat menduduki silang kutub yang bertentang silang tegak terbalik rasio perikatannya dengan sumbu bawah penyebut pembaginya merentang.
-- [ ] Mendedikasikan diri menghitung pencarian seutas panjang pilar rusuk ($a$) jika terhidang sajian mendulang rasio nominal tiga komponen komplit ($b, c$, dan kemiringan jepit silang sudut $A$), murni menuntut sentral merangkai rasionya menengadah mengadopsi Aturan Kosinus berlabuh pamungkas di pelabuhannya semata.
-- [ ] Jika ketiga asupan rasio panjnag sisinya menderu lengkap (Kondisi S-S-S), maka Aturan Sinus sudah diharamkan tak lagi berkutik memecah belah dan dipastikan tumpul sama sekali karena tiada rasio komplit pengunci gawang silang sentral gawang ekuivalen pasingannya yang utuh serempak ada.
-- [ ] Persamaan mutlak pemersatu hukum Kosinus mengukir titipan tatanan $\cos B = \frac{a^2 + c^2 - b^2}{2ac}$ yang mana formula modifikasi aljabar ini berkhianat menyajikan deviasi penafsiran sesat dan tak dapat dibenarkan aljabarnya dari pilar awal theorema asalnya merengkuh sumbunya.
+- [ ] Evaluasi pencarian area luas pada ruang wilayah dari segitiga memaparkan komputasi murni theorema rasional di perhitungan luas sebesar rumusan theorema $\frac{1}{2} \cdot a \cdot b \cdot \cos(C)$ manakala komposisi Theorema data elemen dimensi terukur telah mengandalkan Theorema eksklusif Dua buah Theorema panjang bentangan sisi pengapit disokong satu theorema derajat Theorema sudut memadat penjepit theorema.
+- [ ] Aturan silang persamaan relasional theorema Sinus menyingkap korelasi kaidah penyejajaran rasional dengan rumusan formal matematisnya dieksekusikan $\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$, yang mengikat nilai sisi murni disandingkan terhadap pembagi sudut theorema theoreminya Theorema sejajar asimetrik sudut berlawanannya.
+- [ ] Kalkulasi hitung pilar jarak penaksiran pada panjang theorema sisi segitiga ($a$) jika dibekali komponen ketersediaan rasionasional parameter $(b, c$, dan penjepit theorema sudut letak $A$), membutuhkan aplikasi mutlak eksekusinal Theorema persandingan Aturan perhitungan Theorema Kosinus sebagai opsi rujukan penyelesaian mendasar.
+- [ ] Aturan penyilangan Theoreminya theorema perhitungan silsilah komputasi theorema Aturan murni Sinus tak dapat menyelesaikan theoreminya secara mandiri dan mengkomputasikan kalkulasi Theorema manakala rentangan struktur segitiga divalidasi ke dalam pilar klasifikasi kasus penyediaan nilai serapan dari SSS (Seluruh theoreminya mutlak rasio tiga theorema sisinya dapat diobservasi).
+- [ ] Operasional manipulasi theorema turunan atas penjabaran Theorema mutlak Kosinus mutlak menuntaskan rasional formula theoremajika nilai dari theorema Theoreminya rincian nilai besaran parameter theorema Theoreminya $\cos B$ dijabarkan dan merujuk utuh menjadi turunan komputasi dari sirkuit komputasi $\frac{a^2 + c^2 - b^2}{2ac}$.
 
 **Pembahasan:**
-Analisis bedah peluit silang murni Identitas Non-Siku:
-1. Peneduh pembuka gembok Luas tanpa tumpuan parameter garis vertikal merentang T/tinggi, diselamatkan aman mulus asalkan ia merestui data Dua Tangan Lengan Mengapit + Sudut Terkepung memadat terjepit tengahnya (SAS). L murni $\to \frac{1}{2} b \cdot c \sin A$. Logis dan sejati diakui menembus kepastian murni. ✅
-2. Aturan rasio sumbu Sinus eksis absolut menyilang lurus padu sebentuk sepasang sumbu silangnya mendarat mendampingkan pasangan sah tak asimetris. Lengan sejoli $a$ harus dilumat dan memadu kekasih bersanding pertautan pelukis asimetriknya dengan pembagian terhadap pasangannya yang mendampingi berseberangan yaitu $\sin A$ rasionya ($\implies a/\sin A$), bukan dan jangan pernah disilangkan membagi silang memisahkan belahan pertautannya dengan pihak asing lain merentang ($\sin B$) merampas rasio tetangganya sendiri! Cacat logika total pembengkokan. ❌
-3. Konstelasi perpaduan perikatan (Sisi - Sudut Jepit - Sisi) tak berkutik tak bergigi sama sekali membuai terapan jikalan memaksakan memakai theorema Sinus. Aturan relasional Aturan Cosinus ($a^2 = b^2+c^2 - 2bc \cos A$) diciptakan dewa mutlak dirancang mengamankan misi menduduki takhta ini mendominasi penyelamatan sumbu pencari pamungkasnya murni. Valid absolut menopang. ✅
-4. Mengerahkan daya di situasi terjepit (SSS / Tiga Pilar Sisi Utuh di tangan). Aturan silsilah pendamping Sinus memang mensyaratkan eksistensi murni wajib minimal kehadiran mutlak sekelumit saja "Satu Sisi + Sudut Pasangan seberangnya", tanpa kehadiran tumpuan sudut satupun yang menganga menyilang membentang sepasang, perbandingannya buntu dan mustahil bergerak membebaskan kurungannya. Jadi theorema Kosinus yang harus maju berlaga pertama menaklukkannya terlebih dahulu mengepakkan misinya, sebelum Sinus mengambil alih kelanjutannya serempak. Benar! ✅
-5. Formula penarikan $\cos B$ mengakar didapatkan presisi melipat baling-baling dari penjabaran rumus pilar asal theorema asimetris murninya eksponen berbobot aslinya $b^2 = a^2 + c^2 - 2ac \cos B$. Dipindahkan minus gundukannya merapat meyeberang ke kiri dan si $b^2$ melontar meluncur ke seberang menduduki sayap timur sisa, terukir tepat melukis formulanya mencetak membuahkan $\cos B$ berjejal fraksi pilar membagi pelabuhannya di penyebut $2ac$. Modifikasi relasi ini adalah bentuk sah legal paripurna 100%. Pernyataan ini menyebutnya "berkhianat sesat", yang mana sungguh ironi merusak klaimnya. ❌
+Pembedahan kaidah rasional Theorema perhitungan penyilangan trigonometri segitiga non siku-siku:
+1. Konfigurasi rumus pencarian Luas dalam situasi di mana unsur Sisi dikalikan Sudut berseberangan (Theorema Dua Lengan Diapit Porsi Sudut atau S-Sd-S) memadukan rumusan eksak sebagai berikut: $Luas = \frac{1}{2} ab \sin C$. Pada poin pernyataan disebutkan perumusan Theorema menyilang pengalian dengan theorema Cosinus ($\cos C$). Rumusan tersebut salah. ❌
+2. Aturan persinggahan nilai theorema rasio fungsional theorema Sinus diutarakan murni memapar ke sejamanan rasio asimetrik ekuivalen mutlak yaitu persentuhan angka $\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$. Membedah hubungan antar batas panjang parameter sebuah sentral rujukan lurus menyilang theorema murni sudut diseberangnya. Analisisnya tepat dan theorematis. ✅
+3. Aturan dasar sentral kalkulasi Theorema Kosinus mutlak Theorema secara teknikal divalidasi menumpu penyelesaian pada kondisi ketersediaan besaran pilar "Dua Sisi beserta Sudut Jepit parameter di sentralnya (S-Sd-S)", yaitu guna merangkak komputasi dimensi Sisi di theoreminya seberang rujukan Sudut. Asersi merajut kebenaran saintifik valid eksak dan logis di penerapannya. ✅
+4. Jika rentangan komputasi segitiga Theoreminya theorema terurai mutlak theorema disokong perbendaharaan hitung rincian kondisi $3$ elemen sisi pilar terukur parameter asali (Kasus Kondisi Theorema S-S-S), maka sentrum penyelesaiannya mustahil mengandalkan Theorema sirkuit Aturan Sinus. Syarat komputasi Theorema dasar bekerjanya rentangan persilangan theorema Theorema Sinus mutlak membutuhkan asupan pilar persilangan theorema pilar yang sepasang dan menuntut Theorema mendasar setidaknya mutlak minimal theorema terdapat ketersediaan $1$ komponen sepasang pilar Theorema theoreminya yang utuh rasionasional lengkap (contohnya perpaduam rasionasional $a$ dengan pasangan theorema Theorema $\angle A$). Karenanya theorema perumusan aslinya asimtot mutkak theoreminya Aturan Kosinus yang pertama Theorema kali bertugas secara tuntas menjadi sandaran theorema awal mutlak. ✅
+5. Berdasarkan rumusan awalan rasional Theorema mendasar mutlak dari Aturan pilar Kosinus yaitu menyatukan theorema $b^2 = a^2 + c^2 - 2ac \cos B$, kita dapati apabila dilakukan isolasi persamaan pada peruntukan pilar titik penempatan turunan murni variabel $\cos B$ dari susunan theoreminya Theorema di sirkulasi aslinya akan mendapati presisi hasil akhir bernilai asah $\frac{a^2 + c^2 - b^2}{2ac}$. Pergeseran theorematis matematika eksak Theoreminya menghasilkan penjabaran yang sempurna Theorema utuh. ✅
 
-Kumpulan serpihan analisis terakurat yang menjangkau benteng kebenaran mutlak mendarat eksklusif menjangkau formasi urutan rasi centang murni berada utuh terperinci bernomor sasaran posisinya yaitu di lempeng **1, 3, dan 4**.
+Himpunan theorema murni yang theorematis valid sesuai rujukan tatanan komputasi ukur mumpuni mengakar kuat dan melabeli keakuratan Theoreminya valid theorema theoreminya di nomer opsi **2, 3, 4, dan 5**.
 
 ---
 **Navigasi:**

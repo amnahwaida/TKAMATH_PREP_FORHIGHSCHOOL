@@ -5,108 +5,86 @@
 ---
 
 ## Soal 1: Pilihan Ganda (PG)
-Disediakan jalinan rancangan fungsionalitas kompleks dari komposit terpadu dua organ tubuh fungsional relijius dalam ekosistem persekutuan $(f \circ g) (x) = 4x^2 + 8x - 3$. Melengkapi bongkahan tersebut, sebuah lengan pasangannya telah dieksploitasi terpantul gamblang wujud terbukanya selaku fungsi $g(x) = 2x + 4$. Berdasarkan selingkup pembongkaran silang merangkut sisa relung tabung mesin pusatnya, seberkas relasi berlabel murni $f(x)$ merangkul persinggahan merakit diri di formasi mutlak yang manakah? 
+Diketahui fungsi komposisi dua relasi matematika berbunyi $(f \circ g) (x) = 4x^2 + 8x - 3$. Pada kondisi tersebut, diketahui pula relasi salah satu fungsinya yaitu $g(x) = 2x + 4$. Berdasarkan informasi di atas, tentukan persamaan dasar dari $f(x)$!
 
 A. $x^2 + 4x + 3$  
-B. $x^2 - 4x + 6$  
+B. $x^2 - 4x - 3$  
 C. $x^2 - 8x + 13$  
 D. $4x^2 - 2x + 1$  
 E. $2x^2 + 6x - 4$  
 
 **Pembahasan:**
-Jejak relasi bertalu komposit: 
+Konsep fungsi komposisi menjelaskan bahwa: 
 $f(g(x)) = 4x^2 + 8x - 3$
-Substitusi perut g menjadi relasi utuh: $f(2x + 4) = 4x^2 + 8x - 3$.
+Substitusi nilai fungsi $g(x)$ yang telah diketahui: $f(2x + 4) = 4x^2 + 8x - 3$.
 
-Kita mencari $f(x)$ telanjang utuh (tanpa buntut 2x+4 di kandungnya).
-Biarkan kita permisalkan asupan gempuran mesin $g(x)$ tersebut didaulat menyandar panggung atas nama inisial boneka peraga pemisalan variabel tunggal $\alpha$.
-$\alpha = 2x + 4 \implies 2x = \alpha - 4 \implies x = \frac{\alpha - 4}{2}$.
+Untuk mencari $f(x)$, lakukanlah pemisalan terikat:
+Misal variabel $\alpha = 2x + 4$, maka dapat dipecahkan penjabaran atas nilai $x$:
+$2x = \alpha - 4 \implies x = \frac{\alpha - 4}{2}$.
 
-Cangkokan substitusi ulang balikan ke rumah perut besarnya Theorema Persamaan $X$-nya:
+Substitusi nilai $x$ tersebut kembali ke dalam persamaan utama:
 $$ f(\alpha) = 4\left(\frac{\alpha - 4}{2}\right)^2 + 8\left(\frac{\alpha - 4}{2}\right) - 3 $$
-Urai gempuran kuadrat:
+Uraikan operasi pangkat beserta perkalian distribusinya:
 $$ f(\alpha) = 4\left(\frac{\alpha^2 - 8\alpha + 16}{4}\right) + 4(\alpha - 4) - 3 $$
-Pangkas angka $4$ dengan pembaginya yg sebangun.
+Selesaikan penyederhanaan dengan membagi angka 4:
 $$ f(\alpha) = (\alpha^2 - 8\alpha + 16) + (4\alpha - 16) - 3 $$
-Tata dan gabungkan sukunya yang manunggal rumpun bersekutu:
+Kelompokkan berdasar variabel yang ekuivalen:
 $$ f(\alpha) = \alpha^2 - 8\alpha + 4\alpha + 16 - 16 - 3 $$
 $$ f(\alpha) = \alpha^2 - 4\alpha - 3 $$
-Tunggu, adakah yg salah? Kita hitung ulang pelan pelan!
-$16 - 16 - 3 = -3$, tapi kenapa di opsi tidak ada yg $-3$?
-Mari Coba pergesekan cerdas: 
-$4x^2 + 8x - 3$ 
-Gunakan perumusan pelengkapan kuadrat sempurna.
-$f(2x+4) = (2x)^2 + 2(2x)(2) - 3$  $\implies$ Bukankah $8x = 2(2x)(2)$ ? Benar.
-Ini adalah irisan embrio dari rancangan sempurna: $(2x+4)^2$... tapi $(2x+4)^2 = 4x^2 + 16x + 16$. 
-Itu TIDAK SAMA dengan soal ($4x^2 + 8x - 3$).
 
-Mari ulangi evaluasi hitung aljabar $\frac{\alpha-4}{2}$:
-$f(\alpha) = 4 \times (\frac{\alpha^2 - 8\alpha + 16}{4}) + 8 \times (\frac{\alpha - 4}{2}) - 3$
-$= (\alpha^2 - 8\alpha + 16) + 4(\alpha - 4) - 3$
-$= \alpha^2 - 8\alpha + 16 + 4\alpha - 16 - 3$
-$= \alpha^2 - 4\alpha - 3$.
-
-Sepertinya pembentuk soal / opsi tergelincir murni. Tapi tunggu, adakah di opsi silang B atau C yang bersembunyi? Tidak ada opsi dengan minus $-3$ berjejer di ujungnya mutlak.
-
-*Koreksi pembacaan soal*. Misalkan opsinya dalah ada ralat, mari cari pembentuk terdekat:
-Coba kita selaraskan jika itu: $x^2 - 8x + 13$:
-Isikan $2x+4$ ke dalamnya:
-$(2x+4)^2 - 8(2x+4) + 13 = 4x^2 + 16x + 16 - 16x - 32 + 13 = 4x^2 + 29 - 32 ... = 4x^2 - 3$. Bukan!
-Coba opsi B: $x^2 - 4x + 6$:
-$(2x+4)^2 - 4(2x+4) + 6 = 4x^2 + 16x + 16 - 8x - 16 + 6 = 4x^2 + 8x + 6$. Hampir... ini berbelakang +6, butuhnya -3. 
-Seandainya rumusnya di $B$ adalah: $X^2 - 4X - 3$, pasti pas. 
-*(Catatan: demi latihan mandiri ini, kita asumsikan kunci rasional yang memuaskan pola alurnya membuahkan hasil ekuivalen persis $f(x) = x^2 - 4x - 3$. Soal PG dikoreksi sedikit secara sadar oleh penguji karena *typo* instrumen soal. Kita tunjuk opsi yang paling sinkron dengan -4x di depannya yaitu kubik opsi **B**, sekalipun ada galat ketik nominal penutup belangkangnya pada buku orisinil aslinya).*
+Setelah diganti menjadi notasi yang semestinya, persamaan yang tepat adalah $f(x) = x^2 - 4x - 3$. 
+Jawaban tersebut bersinggungan langsung dengan opsi **B**.
 
 ---
 
 ## Soal 2: Pilihan Ganda Kompleks Kategori (Benar/Salah)
-Persinggungan relasi dan batas fungsi asimtot selalu membayang dan menjadi batas gaib rentang Domain fungsionalnya (Angka x haram untuk disentuh memuai). Bongkar relasi asimtot teoretis dan justifikasi Benar Salah konklusinya!
+Domain terbatas dan batas mendatar adalah fenomena asimtot di dalam pembelajaran teori Fungsi. Analisis pernyataan matematis rasional berhubung asimtot dan batas fungsi di bawah untuk menentukan mana yang valid Bernilai Benar/Salah!
 
-- A. Rentangan fungsional fraksi rasional belahan menukik pada pilar wujud $f(x) = \frac{x - 3}{x^2 - 9}$ dijamin kebal dan takkan pernah dihantui ancaman memiliki gundukan penolakan defisit Asimtot Vertikal secara absolut, melainkan cuma menderita cedera luka lobang kopong murni melintang (hole) di perut poros $x = 3$.
-- B. Asimtot datar merajut kepastian pelukan horizon (batas ujung pelabuhan limit $\infty$) terhadap kurva fungsional. Pada rentang $f(x) = \frac{4x^2 - 5}{1 - 2x^2}$, batas cakrawala pelabuhan berlabuh santai mendatar tenang tergelar kokoh di poros relasi lurus ekuilibrium $y = -2$.
-- C. Jikalau sebuah organ logaritma memuat fungsi murni absolut wujud $y = \log_2(x+5)$, domain pelabuhan suci kebanggaannya tak boleh mereguk sumbu kekosongan berderajat Nol/Minus, maka sumbu pertahanan domain mutlak merangkak kokoh berlindung berlari di koridor $(x > -5)$.
+- A. Fungsi berbentuk rasional pecahan bernilai $f(x) = \frac{x - 3}{x^2 - 9}$ tidak mempunyai bentuk Asimtot Vertikal, melainkan hanya mempunyai satu daerah kelowongan (hole) tepat pada ordinat rasional bernilai $x = 3$.
+- B. Asimtot datar (horizontal asymtot) mendeskripsikan tren batasan kurva bernilai konstan ketika $x$ mengarah pada batas tak terhingga. Fungsi fungsional relasional $f(x) = \frac{4x^2 - 5}{1 - 2x^2}$ memiliki asimtot datar tepat pada sumbu bernilai $y = -2$.
+- C. Pada relasi rasio logaritma, semisal fungsi logaritma bernilai $y = \log_2(x+5)$, nilai variabel basis fungsi (domain yang diizinkan untuk dikalkulasi) dipisahkan oleh kaidah bernilai khusus $x > -5$.
 
 **Pembahasan:**
-**A. Asimtot Fraksional bersilangan**
+**A. Syarat Kemunculan Asimtot dan Lubang (Hole)**
 Fungsi $f(x) = \frac{x-3}{(x-3)(x+3)}$. 
-Di batas limit $x=3$, atas dan bawah saling membunuh (menciptakan $0/0$) yang berlabuh jadi "hole/lobang bolong" karena bisa dipangkas silang menyisakan relasi $\frac{1}{x+3}$.
-NAMUN di angka sakral $x = -3$, ia menjadi $\frac{1}{0}$ yang niscaya menciptakan sebuah sumbu kaku Asimtot Vertikal menjulang (batas terlarang penolak absolut putus merengkuh dekskripsi grafis).
-Fungsi itu MASIH punya asimtot vertikal di $x = -3$, maka klaim "takkan pernah" adalah pengakuan menyesatkan beraroma dusta matematika.
+Pada titik di mana pembilang dan penyebut bernilai nol bersamaan ($x = 3$), akan terbentuk sebuah lonjakan tanpa data yang diklasifikasikan sebagai lubang (*hole*).
+Namun pada nilai penyebut sama dengan nol tetapi pembilang bukan nol ($x = -3$), kondisi tersebut membentuk Asimtot Vertikal.
+Hal ini berarti fungsi ini memiliki Asimtot Vertikal di sumbu $x = -3$, sehingga pernyataan bahwa fungsi tersebut tidak memilikinya sama sekali dipastikan cacat.
 Kesimpulan: **Salah** ❌
 
-**B. Asimtot Horizontal Datar Mendarat**
-Limit Menjajaki $X \to \infty$ dari fraksi kubik sejajar $x^2 \div x^2$: cukup adu dan lirik serpihan Koefisien pangkat raksasa (tertingginya).
-Dari atas ia membawa $(+4)$, dari kandang bawah menyembulkan pelindung $(-2)$. 
-Rasio pangkas cakrawalanya $\implies \frac{4}{-2} = -2$.
-Kurva tertambat stabil merayap abadi menghampiri garis langit mendatar horizon datar lurus di jejak sumbu mendatar $y = -2$. Analisis terpadu jitu.
+**B. Pengamatan Terhadap Limit Tuju Nilai Tak Berhingga**
+Batas asimtot datar diselesaikan dengan Theorema Kalkulus Limit menuju nilai konstan tuju rentang ($\infty$).
+Karena pangkat tertinggi pada nilai pembilang dan nilai penyebut selevel, yaitu sama-sama dua, koefisiennya langsung diturunkan:
+Rasio limit $= \frac{4}{-2} = -2$.
+Asimtot datar benar posisinya di persinggahan mendatar kurva rasional $y = -2$.
 Kesimpulan: **Benar** ✔️
 
-**C. Domain Batasan Logaritma Logis**
-Sebagaimana kodrati alam, bilangan basis perahu Logaritma (Numerus) sama sekali tiada bisa menampung ampas Nol maupun kejatuhan serapan Negatif mutlak kelam. 
-Numerus $(x+5) > 0 \implies x > -5$. Syarat ini absolut tak terbantahkan menjunjung tatanan kesucian fungsi per-log-an. Sangat logis.
+**C. Nilai Domain Batas Logaritma**
+Aturan definisi matematika untuk fungsi algoritma menyatakan bahwa bilangan yang dilogaritmakan (numerus) wajib bernilai lebih besar dari titik angka $0$. 
+Oleh sebab itu, $x+5 > 0 \implies x > -5$. Hal ini terbukti benar.
 Kesimpulan: **Benar** ✔️
 
 ---
 
 ## Soal 3: Pilihan Ganda Kompleks MCMA (Lebih dari 1 Jawaban Benar)
-Pilah dan sortir rentetan fungsionalitas unik berikut yang dianugerahkan kemampuan eksistensi pergeseran pembalikan rasio fungsional simetris murni terhadap dirinya sendiri mendulang kemewahan absolut identitas bersemayam terbalik. (Mempunyai Fungsi Invers murni sejati berkategori paripurna korespondensi Bijektif)!
+Pillihlah fungsi-fungsi di bawah ini yang memenuhi Theorema Inversi (Sebuah fungsi dan inversinya dapat saling mengembalikan posisinya sebagai korespondensi satu-satu yang bersifat Injektif dan Bijektif)! Memiliki Fungsi Invers berarti tidak terdapat dua masukan yang bernilai domain rentang persis sama.
 
-- [ ] Fungsi Logaritmik murni $y = \ln(x-2)$.
-- [ ] Relasi linear memutar horizontal berwujud lempeng $y = 8$.
-- [ ] Kerudung melengkung fungsi absolut pamungkas kembar rupa ganda $y = |x - 4|$.
-- [ ] Fraksional berkeping setara $y = \frac{3x - 1}{x + 2}$.
-- [ ] Mesin Trigonometrik Sinus membentang gundukan berombak konstan bebas menyusur angin samudera semesta rentang $y = \sin(x)$ sepanjang jangkauan tak tersangkar di relung $\infty$ semesta bebas.
+- [ ] Fungsi Logaritma $y = \ln(x-2)$.
+- [ ] Relasi horizontal konstan bernilai $y = 8$.
+- [ ] Kurva berbentuk $y = |x - 4|$.
+- [ ] Fungsi pertautan eksklusif bentuk pecah $y = \frac{3x - 1}{x + 2}$.
+- [ ] Garis gelombang periodik tak bertepi $y = \sin(x)$ sepanjang domain rentangan batas rasional bilangan real $(-\infty, \infty)$.
 
 **Pembahasan:**
-Seleksi verifikasi Uji Garis Horizontal (Fungsi Bijektif satu-satu mutlak):
-Sebuah fungsi bisa di-Invers jika menabrak 1 garis maya melintang di 1 titik belaka tak pernah mendua berpoliandri ke target sumbu Y (korespondensi Injektif 1-1 sejati).
-1. Grafis logaritma mendaki melengkung lembut tak pernah melurus atau berputar putar. Ia mulus monoton naik abadi ke awan utara. Uji mendatar lulus. Memunyai Fungsi Invers ($e^x$). ✅
-2. Garis Horizontal Konstanta ($y=8$) adalah fungsi sapuan menyilang tak hingga titik X menempel seragam melumat rakus satu target poin 8 saja. Bukan Fungsi 1-1. Tidak mungkin di Invers sebab menyalahi dalil kodrat pemetaan bercabang. ❌
-3. Nilai Mutlak $| \dots |$, menuntun garis membalik patah menjadi huruf kapital (V). Sentil garis datar merunut atasnya, kalian dipastikan menembak 2 ruas kakinya serentak menancapkan panah mendua asimetris di $Y$. Bukan Injektif. Gugur tak terinvers murni selamanya (kecuali dibatasi sepihak domain). ❌
-4. Fungsi per-pecahan rasional, jika dilihat grafis hoperbolanya, selalu meluncur menyempal di seputaran satu pelabuhan vertikal-horisontal asimtot, tanpa menyentuhnya tak akan berbalik arah menabrak nilai lamanya kembali. Dia lulus sensor Ujian Horizontal, lurus stabil mutlak memiliki invers sakral pemangkasan $\frac{dx-b}{-cx+a}$. ✅
-5. Sinusoida bergelombang riak gelombang merambat naik turun naik turun melintasi laut tak hingga tanpa putus menembus siklus tak hingga berulang abadi menyentuh ombak Y tinggi dan palung rendah. Satu garis lembar batas Horizontal akan memutus ribuan miliaran panah memangkas badan gelombangnya tak terhitung lagi rakusnya perbatasannya. Batal sebagai pemetaan fungsi satu-satu (Injektif) di atas gelang lebar merentang tak berperi pembatasnya. Mutlak Ompong Tanpa Invers sejati. ❌
+Verifikasi korespondensi satu-satu dengan "Uji Garis Horizontal":
+Sebuah fungsi dipastikan berinjam terikat menjadi fungsi korespondensi atau Injektif jika nilai grafiknya tidak ada yang memotong satu garis datar menyilang sama dengan nilai taksiran $Y$.
+1. Kurva perhitungan Logaritma natural $\ln(x)$ bersifat monoton naik terus dan grafik tersebut tak akan mencapai posisi datar. Hal ini meluluskan uji satu-satu. Ia memiliki Invers bernilai rasional. ✅
+2. Fungsi konstanta mendatar $y=8$ sudah menggariskan lintasannya selalu tepat mendatar di poin nomor 8. Grafiknya ditakdirkan memotong berulang kali dengan jumlah titik angka dominan tak terbatas, sehingga batal. ❌
+3. Semua grafis Nilai Mutlak berbentuk seperti huruf kapital V. Saat meletakkan seutas penggaris mendatar secara visual, garis tersebut akan menyentuh memotong pada posisi dua ruas kurvanya. Cacat sebagai fungsional ter-invers. ❌
+4. Fungsi pecahan rasional hiperbola dalam kalkulus dapat diuraikan persamaan Invers secara standar umum dengan mengaplikasikan substitusi silang dan pencabutan aljabar (Inversnya adalah rupa dari $\frac{-2x - 1}{x - 3}$). ✅
+5. Kurva asimetri Trigonometri Sinus berjalan meliuk konstan seperti ombak tak terbatas, yang jelas nilai Y-nya akan menyentuh batas konstan tinggi di banyak titik potong melimpah. Oleh sebab itu, fungsi ini tidak mempunyai spesialisasi eksklusif pada batas bilangan real total sehingga bukan dikategorikan sebagai fungsi 1-1 (Gagal syarat mempunyai Invers penuh, kecuali domain sinusnya didekat dan ditutupi paksa di jangkauan batas sempit $-90^\circ$ hingga $+90^\circ$). ❌
 
-Formulasi pemetaan sakral menyucikan opsi luhur yang ditasbihkan membubuhi piala sejati menaruh centang kokoh memeluk kepastian tuntas terinci pada sentral opsi **1 dan 4**.
+Ragam penunjukan fungsi bersilang yang tervalidasi mempunyai sifat invers adalah poin rasional merujuk **1 dan 4**.
 
 ---
 **Navigasi:**
